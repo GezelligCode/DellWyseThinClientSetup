@@ -1,5 +1,5 @@
 # POSH
-PowerShell Scripts
+PowerShell Script to Automate Configuration of Thinclient Terminals
 
 This is a PowerShell script for automating much of the initial configuration of Dell's Wyse Thinclient terminals. This script involves medical-enterprise software setup, i.e. MidMark, and applications specific to our needs, e.g. Adobe, so customize the script as needed for your context. 
 
